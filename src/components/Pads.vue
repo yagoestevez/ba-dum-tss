@@ -209,8 +209,4 @@ text.key-text {
   opacity: 1;
   transition: all 100ms;
 }
-
-.show {
-  opacity: 1;
-}
 </style>
